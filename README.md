@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-  <a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=soplus123"/></a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
  </div>
  
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University's Erica campus.
@@ -28,7 +28,8 @@ Hi, I'm Je Ho. I'm studying computer science at Hanyang University's Erica campu
 - 🤔 Looking for open source to contribute
 -
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+
+<a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=soplus123"/></a>
 <!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soplus123)](https://solved.ac/soplus123)
