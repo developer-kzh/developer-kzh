@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  </div>
  
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University's Erica campus.
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+---
 - 👨‍💻 College student
 - 🔥 Learning Web full stack
 <!--
