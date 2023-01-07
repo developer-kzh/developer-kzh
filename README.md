@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-kzh&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soplus123)](https://solved.ac/soplus123)
