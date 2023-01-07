@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
  
   <a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=soplus123"/></a>
+ </div>
+ 
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University's Erica campus.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 👨‍💻 College student
