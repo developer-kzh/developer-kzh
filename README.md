@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
 ---
-- 👨‍💻 College student
+- 👨‍💻 Sophomore
 - 🔥 Learning Web full stack
 <!--
 - 🤔 Looking for open source to contribute
