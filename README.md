@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je-Ho Kang&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
  </div>
  
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
