@@ -1,16 +1,17 @@
-
+<div align = "center">
  <!--
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-kzh&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
  -->
  
-## Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
+Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 - 👨‍💻 Sophomore
 - 🔥 Learning Web full stack
-
-
-<a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=soplus123"/></a>
-<img align = "right">
+<br>
+ 
+<a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soplus123"/></a>
+<br>
+<br>
 
 ### 🛠️ Tech Stack 🛠️
 <p>
@@ -26,8 +27,8 @@
   <a href="https://velog.io/@zeho"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
 </p>
 
-<br>
-
-
 ![](https://github.com/developer-kzh/github-stats-transparent/blob/output/generated/languages.svg)
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
+</div>
