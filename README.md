@@ -1,36 +1,33 @@
-<!--### Hi there 👋-->
 
-<!--
-**developer-kzh/developer-kzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
+ <!--
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-kzh&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+ -->
  
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je-Ho Kang&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
- </div>
- 
-Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
----
+## Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 - 👨‍💻 Sophomore
 - 🔥 Learning Web full stack
-<!--
-- 🤔 Looking for open source to contribute
--
--->
+
 
 <a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=soplus123"/></a>
-<!--
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soplus123)](https://solved.ac/soplus123)
--->
+<img align = "right">
+
+### 🛠️ Tech Stack 🛠️
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+<br>
+<br>
+
+<h3 > 🎳 About Me 🎳 </h3>
+  <a href="https://velog.io/@zeho"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
+</p>
+
+<br>
+
+
+![](https://github.com/developer-kzh/github-stats-transparent/blob/output/generated/languages.svg)
+
