@@ -6,7 +6,6 @@
 Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 - 👨‍💻 Sophomore
-- 🔥 Learning Web full stack
 <br>
  
 <a href="https://solved.ac/soplus123"><img alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soplus123"/></a>
