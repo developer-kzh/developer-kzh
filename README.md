@@ -22,10 +22,11 @@ Hi, I'm Je Ho. I'm studying computer science at Hanyang University ERICA
 <br>
 <br>
 
+<!--
 <h3 > 🎳 About Me 🎳 </h3>
   <a href="https://velog.io/@zeho"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
 </p>
-
+-->
 ![](https://github.com/developer-kzh/github-stats-transparent/blob/output/generated/languages.svg)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
